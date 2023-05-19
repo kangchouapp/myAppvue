@@ -13,6 +13,8 @@ CV and NLP (vue,python,flask,java,web,c++)
 ![image](https://github.com/KangChou/myApp/assets/36963108/f0a2c5f3-20c0-4b98-9a66-0dc460b08803)
 
 
+# 项目4：VUE 与 flask 前端交互  opencv抓取摄像头
+![image](https://github.com/KangChou/myApp/assets/36963108/320f116c-0ea0-44bf-8549-3a74d920cf92)
 
 
 # 环境配置
