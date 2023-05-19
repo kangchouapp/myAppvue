@@ -5,7 +5,10 @@ CV and NLP (vue,python,flask,java,web,c++)
 # 项目1：VUE 与 flask 前端交互
 ![image](https://github.com/KangChou/myApp/assets/36963108/69033173-bf7d-4da9-bc31-9c6ff050f1a0)
 
+# 项目2：VUE 与 flask 前端交互  计算器
+![image](https://github.com/KangChou/myApp/assets/36963108/58cbe365-6fee-420b-b4d2-ae2de09453fc)
 
+# 项目3：VUE 与 flask 前端交互  计算器界面优化
 
 # 环境配置
 
