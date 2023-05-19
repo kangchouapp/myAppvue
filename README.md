@@ -1,5 +1,6 @@
 # myApp
 CV and NLP (vue,python,flask,java,web,c++)
+![image](https://github.com/KangChou/myApp/assets/36963108/0d91d877-54f5-4586-98bd-bc63303a6d87)
 
 
 # 项目1：VUE 与 flask 前端交互
@@ -9,6 +10,10 @@ CV and NLP (vue,python,flask,java,web,c++)
 ![image](https://github.com/KangChou/myApp/assets/36963108/58cbe365-6fee-420b-b4d2-ae2de09453fc)
 
 # 项目3：VUE 与 flask 前端交互  计算器界面优化
+![image](https://github.com/KangChou/myApp/assets/36963108/f0a2c5f3-20c0-4b98-9a66-0dc460b08803)
+
+
+
 
 # 环境配置
 
