@@ -1,7 +1,7 @@
 # myApp
 CV and NLP (vue,python,flask,java,web,c++)
 
-"""
+```
 在myvue目录下运行Vue项目：
 
 
@@ -64,5 +64,4 @@ $ npm install
   
 }
 
-
-"""
+```
