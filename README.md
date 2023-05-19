@@ -1,6 +1,14 @@
 # myApp
 CV and NLP (vue,python,flask,java,web,c++)
 
+
+# 项目1：VUE 与 flask 前端交互
+![image](https://github.com/KangChou/myApp/assets/36963108/69033173-bf7d-4da9-bc31-9c6ff050f1a0)
+
+
+
+# 环境配置
+
 ```
 在myvue目录下运行Vue项目：
 
