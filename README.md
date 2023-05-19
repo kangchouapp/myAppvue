@@ -17,6 +17,8 @@ CV and NLP (vue,python,flask,java,web,c++)
 ![image](https://github.com/KangChou/myApp/assets/36963108/320f116c-0ea0-44bf-8549-3a74d920cf92)
 
 # 项目5：VUE 与 flask 前端交互  opencv抓取摄像头人脸检测
+![image](https://github.com/KangChou/myApp/assets/36963108/2d715446-fc4c-4ca2-ab14-57590c354370)
+
 
 
 # 环境配置
